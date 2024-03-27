@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "Producto 1",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_809326-MLA46115014340_052021-O.webp"
+    },
+    {
+        "id": 2,
+        "name": "Producto 2",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_619450-MLA51636980544_092022-O.webp"
+    },
+    {
+        "id": 3,
+        "name": "Producto 3",
+        "image": "https://images.fravega.com/f500/32397e21c5240c13f2d32ad3842cd3e8.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Producto 4",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_685192-MLA52680401803_122022-O.webp"
+    },
+    {
+        "id": 5,
+        "name": "Producto 5",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_748934-MLU70464441510_072023-O.webp"
+    },
+    {
+        "id": 6,
+        "name": "Producto 6",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_864844-MLM51559388062_092022-O.webp"
+    },
+    {
+        "id": 7,
+        "name": "Producto 7",
+        "image": "https://sony.scene7.com/is/image/sonyglobalsolutions/529_category?$goldenAreaImage$&fmt=png-alpha"
+    },
+    {
+        "id": 8,
+        "name": "Producto 8",
+        "image": "https://www.comeros.com.ar/wp-content/uploads/2022/11/91a192b77d77a80a4b7e9768877d.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Producto 9",
+        "image": "https://www.multipoint.com.ar/Image/0/750_750-a124.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Producto 10",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_649214-MLA42536049675_072020-O.webp"
+    }
+]
